@@ -13,7 +13,7 @@ from telegram.ext import (
 from telegram.error import BadRequest
 
 # کانال
-CHANNEL = "@AmitisbetOfficial"
+CHANNEL = "@Amitisbet Official"
 
 # زبان‌ها
 LANGS = {
